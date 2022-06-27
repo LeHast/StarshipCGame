@@ -1,0 +1,4 @@
+﻿  Game.cpp
+sfml-window-s-d.lib(InputImpl.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(InputImpl.cpp.obj)' or at 'C:\Users\Daniel\Desktop\Projects\CGameSFML\bin\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Keyboard.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(Keyboard.cpp.obj)' or at 'C:\Users\Daniel\Desktop\Projects\CGameSFML\bin\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+  CGameSFML.vcxproj -> C:\Users\Daniel\Desktop\Projects\CGameSFML\bin\Debug\CGameSFML.exe
