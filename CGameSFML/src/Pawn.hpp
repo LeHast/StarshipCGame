@@ -18,11 +18,15 @@ public:
 
 	void SetSpriteSize(float, float);
 	void SetSpriteLocation(float, float);
-protected:
+	void CropSprite(int left, int top, int weight, int height);
+private:
+	sf::Clock m_clock;
+	sf::Time m_time;
 
+protected:
 	float m_dealtaTime;
 
-	sf::Texture m_texture;
+	sf::Texture* m_texture;
 	sf::Sprite m_sprite;
 };
 

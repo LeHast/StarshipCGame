@@ -98,7 +98,6 @@
   <ItemGroup>
     <ClInclude Include="src\Player.hpp" />
     <ClInclude Include="src\Pawn.hpp" />
-    <ClInclude Include="src\DeltaTime.hpp" />
     <ClInclude Include="src\GameTextBox.hpp" />
     <ClInclude Include="src\Game.hpp" />
     <ClInclude Include="src\GameWindow.hpp" />

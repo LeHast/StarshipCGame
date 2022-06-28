@@ -3,12 +3,13 @@
 #include "Pawn.hpp"
 
 namespace hast {
-
+// Enum Class for the direction of the player.
 enum class Direction{
 	Left,
 	Right,
 };
 
+// Player Class
 class Player: public hast::Pawn{
 public:
 	Player();

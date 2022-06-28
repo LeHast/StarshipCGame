@@ -44,9 +44,6 @@
     <ClInclude Include="src\GameTextBox.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\DeltaTime.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\Pawn.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>

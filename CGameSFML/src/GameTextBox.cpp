@@ -17,7 +17,7 @@ void hast::GameTextBox::Render(sf::RenderWindow& renWin){
 	}
 	if (content != "") {
 		text.setString(content);
-		renWin.draw(background);
+		//renWin.draw(background);
 		renWin.draw(text);
 	}
 
